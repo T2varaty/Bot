@@ -1,2 +1,2 @@
-# Bot
+# Learning materials!
 Only as learning materials!
